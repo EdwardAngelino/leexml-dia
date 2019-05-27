@@ -5,6 +5,7 @@
 #include <QList>
 
 //programa para escribir sobre un archivo Dia html, etiquetas.
+//añadi una linea adicional
 QString extraecodigo(QString cadena)
 {
     int ini = cadena.indexOf("#",1);
