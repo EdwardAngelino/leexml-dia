@@ -72,6 +72,7 @@ leexml [origen.dia] -i [resultados.csv] -o [Salida.dia] -b [barras.csv]*/
 
 int main(int argc, char *argv[])
 {
+
     QCoreApplication a(argc, argv);
 
     QString ArchOrigen("");
@@ -305,6 +306,4 @@ int main(int argc, char *argv[])
 
 
     return 0;
-
 }
-
