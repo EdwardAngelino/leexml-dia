@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 leexml.pro.user
 Makefile
 Makefile.Debug
@@ -6,10 +5,3 @@ Makefile.Release
 .qmake.stash
 release/leexml.exe
 release/main.o
-=======
-test2
-test3
-leexml.rar
-leexml.pro.user
-release/
->>>>>>> e21e6d17495f993002b31d8a3c5e7b215e812e58
