@@ -1,5 +1,7 @@
-test2
-test3
-leexml.rar
 leexml.pro.user
-release/
+Makefile
+Makefile.Debug
+Makefile.Release
+.qmake.stash
+release/leexml.exe
+release/main.o
